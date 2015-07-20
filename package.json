@@ -1,0 +1,23 @@
+{
+  "name": "reactTutorial",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tpgmartin/reactTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/reactTutorial/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/reactTutorial",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1"
+  }
+}
